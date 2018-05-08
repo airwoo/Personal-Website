@@ -425,7 +425,7 @@ section.success {
 
 .contact p {
    position: relative;
-   left: 60px;
+   left: 100px;
    top: 30px;   
 }
 
@@ -446,7 +446,7 @@ section.success {
     
    position: relative;
    top: 30px;  
-   left: 30px;
+   left: 70px;
     
 }
 
@@ -461,7 +461,7 @@ section.success {
     margin-bottom: 2px;
     margin-right 5px;
     transition: all 200ms ease-in-out; 
-    left: 30px;
+   
     
 }
 
@@ -482,6 +482,7 @@ section.success {
     background-color: #222222;
     position: relative;
     top: 50px;
+    left: 70px;
 }
 
 .contact div{
