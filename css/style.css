@@ -425,7 +425,7 @@ section.success {
 
 .contact p {
    position: relative;
-   left: 30px;
+   left: 60px;
    top: 30px;   
 }
 
@@ -445,7 +445,8 @@ section.success {
 .contact h3 {
     
    position: relative;
-   top: 30px;   
+   top: 30px;  
+   left: 30px;
     
 }
 
@@ -460,7 +461,7 @@ section.success {
     margin-bottom: 2px;
     margin-right 5px;
     transition: all 200ms ease-in-out; 
-       
+    left: 30px;
     
 }
 
