@@ -117,7 +117,7 @@ text-shadow: 2px 2px black;
     width: 100%;
     padding: 125px 0 125px;
     margin-top: 10px;
-    background-image: url("../pics/rift_platform.png");
+    background-image: url("../pics/backup.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -251,7 +251,7 @@ text-shadow: 2px 2px black;
 section {
   padding: 100px 0;
     text-align: center;
-    background-image: url("../pics/topLeftLOL.png");
+    background-image: url("../pics/chairsinspace.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -415,7 +415,7 @@ section.success {
 .contact {
     padding:300px 0 80px;
     text-align: left;
-    background-image: url("../pics/endingSceneLOL.jpg");
+    background-image: url("../pics/daynight.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -427,6 +427,11 @@ section.success {
    position: relative;
    left: 100px;
    top: 30px;   
+   white-space: pre-wrap;
+   background: rgba(0,0,0,0);
+   padding: 4px 4px 4px 0;
+   font-weight: 300;
+   text-shadow: 2px 2px black;  
 }
 
 
@@ -439,6 +444,8 @@ section.success {
     left: 43%;
     font-size: 3em;
     
+    font-weight: 300;
+    text-shadow: 2px 2px black;  
     
 }
 
@@ -447,6 +454,11 @@ section.success {
    position: relative;
    top: 30px;  
    left: 70px;
+   white-space: pre-wrap;
+   background: rgba(0,0,0,0);
+   padding: 4px 4px 4px 0;
+   font-weight: 300;
+   text-shadow: 2px 2px black;  
     
 }
 
