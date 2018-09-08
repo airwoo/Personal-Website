@@ -104,11 +104,13 @@ hr {
 
 .header p {
 white-space: pre-wrap;
-background: rgba(0,0,0,0);
+background: rgba(0,0,0, 0.28);
 padding: 4px 4px 4px 0;
 font-weight: 300;
 margin-bottom: 50px;
 text-shadow: 2px 2px black;  
+
+       
 
 }
 
@@ -117,7 +119,7 @@ text-shadow: 2px 2px black;
     width: 100%;
     padding: 125px 0 125px;
     margin-top: 10px;
-    background-image: url("../pics/backup.jpg");
+    background-image: url("../pics/EDEN-drugs.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -195,6 +197,9 @@ text-shadow: 2px 2px black;
         font-size: 14px;
         position: relative;
         top: -100px;
+        padding: 5px;
+        background-color: gray;
+        box-shadow: -16px 0 0 gray;
     }
     .header h2 {
         font-size: 25px;
@@ -251,7 +256,7 @@ text-shadow: 2px 2px black;
 section {
   padding: 100px 0;
     text-align: center;
-    background-image: url("../pics/chairsinspace.jpg");
+    background-image: url("../pics/eden-gravity.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -415,8 +420,8 @@ section.success {
 .contact {
     padding:300px 0 80px;
     text-align: left;
-    background-image: url("../pics/daynight.jpg");
-    background-position: center center;
+    background-image: url("../pics/eden-sex.jpg");
+    background-position: bottom center;
     background-repeat: no-repeat;
     background-size: cover;
     color: #FFFFFF;
@@ -437,7 +442,7 @@ section.success {
 
 .contact h2 {
     white-space: pre-wrap;
-    background: rgba(0,0,0,0.0);
+    background: rgba(0,0,0,0);
     padding: 5px 5px 5px 0;
     position: absolute;
     top: -140px;
