@@ -65,7 +65,7 @@ p {
 
 .navbar a:hover {
     opacity: 1;
-    color : #57BC90 !important;
+    color : #33adff !important;
    
     
 }
@@ -97,14 +97,14 @@ position: fixed;
 
 }
 hr {
-  border-color:#57BC90;
+  border-color:#33adff;
   border-width: 3px;
   max-width: 50px;
 }
 
 .header p {
 white-space: pre-wrap;
-background: rgba(0,0,0, 0.28);
+background: rgba(0,0,0, 0.4);
 padding: 4px 4px 4px 0;
 font-weight: 300;
 margin-bottom: 50px;
@@ -235,7 +235,7 @@ text-shadow: 2px 2px black;
     font-size: 30px;
     padding: 25px 20px;
     border-radius: 50%;
-    background-color: #57BC90;
+    background-color: #33adff;
     color:#fff;
 }
 
@@ -272,7 +272,7 @@ section h2 {
   font-weight: bold;
 }
 section.success {
-  background: #57BC90 ;
+  background: #33adff ;
   color: white;
 }
 @media (max-width: 767px) {
@@ -294,7 +294,7 @@ section.success {
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
-  background: #57BC90;
+  background: #33adff;
   position: absolute;
   width: 200px;
   height: 200px;
@@ -484,7 +484,7 @@ section.success {
 
 .contact .social:hover  {
     opacity: 1;
-    color : #57BC90 !important;
+    color : #33adff !important;
 }
 
 .contact .info {
